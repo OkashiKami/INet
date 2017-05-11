@@ -22015,10 +22015,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\INet\\INetServer\\INetServer\\INetServer.csproj",
+      "projectUniqueName": "D:\\REPOSITORY\\INet\\INetServer\\INetServer\\INetServer.csproj",
       "projectName": "INetServer",
-      "projectPath": "D:\\INet\\INetServer\\INetServer\\INetServer.csproj",
-      "outputPath": "D:\\INet\\INetServer\\INetServer\\obj\\",
+      "projectPath": "D:\\REPOSITORY\\INet\\INetServer\\INetServer\\INetServer.csproj",
+      "outputPath": "D:\\REPOSITORY\\INet\\INetServer\\INetServer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "uap10.0.10240"
@@ -22032,11 +22032,18 @@
     "dependencies": {
       "Microsoft.NETCore.UniversalWindowsPlatform": {
         "target": "Package",
-        "version": "[5.2.3, )"
+        "version": "5.2.3"
       }
     },
     "frameworks": {
-      "uap10.0.10240": {}
+      "uap10.0.10240": {
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": {
+            "target": "Package",
+            "version": "5.2.3"
+          }
+        }
+      }
     },
     "runtimes": {
       "win10-arm": {
