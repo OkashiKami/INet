@@ -1,1 +1,0 @@
-D:\REPOSITORY\INet\INetServer\server\server.csproj;x86
