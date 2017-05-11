@@ -34,7 +34,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\Hub.Windows.exe">
       <PackagePath>Hub.Windows.exe</PackagePath>
-      <Modified>2017-05-11T17:56:45.728</Modified>
+      <Modified>2017-05-11T18:19:43.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -78,7 +78,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\Hub.Windows.xr.xml">
       <PackagePath>Hub.Windows.xr.xml</PackagePath>
-      <Modified>2017-05-11T17:56:45.588</Modified>
+      <Modified>2017-05-11T18:19:43.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
@@ -86,7 +86,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\HubPage.xbf">
       <PackagePath>HubPage.xbf</PackagePath>
-      <Modified>2017-05-11T17:56:45.609</Modified>
+      <Modified>2017-05-11T18:19:43.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\SectionPage.xbf">
       <PackagePath>SectionPage.xbf</PackagePath>
