@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SINPAI-LAPTOP</Machine>
+    <WindowsUser>zbigm</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ad965ff5-eb94-4dce-957f-96925c5612c5</PackageIdentityName>
+    <PackageIdentityPublisher>CN=zbigm</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\INet\INetServer\Hub\Hub.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>73D932935282C302FF1EC782C6F951FA3E65FA1B8BD4605184BC00889EAC6D2C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ad965ff5-eb94-4dce-957f-96925c5612c5_1.0.0.0_neutral__aphq6ngngqw3t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ad965ff5-eb94-4dce-957f-96925c5612c5_aphq6ngngqw3t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ad965ff5-eb94-4dce-957f-96925c5612c5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zbigm</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-11T17:55:00.075</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\Hub.Windows.exe">
+      <PackagePath>Hub.Windows.exe</PackagePath>
+      <Modified>2017-05-11T17:56:45.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2017-05-11T17:53:47.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\Hub.Windows.xr.xml">
+      <PackagePath>Hub.Windows.xr.xml</PackagePath>
+      <Modified>2017-05-11T17:56:45.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-05-11T17:54:59.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2017-05-11T17:56:45.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2017-05-11T17:54:59.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2017-05-11T17:54:59.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\INet\INetServer\Hub\Hub.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-05-11T17:54:59.880</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
